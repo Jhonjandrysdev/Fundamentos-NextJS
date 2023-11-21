@@ -2,6 +2,7 @@ import TitlePage from '@/components/TitlePage'
 import React from 'react'
 
 const Info = ({params}) => {
+  
   return (
     <>
     <TitlePage text="Info"/>
