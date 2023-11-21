@@ -2,6 +2,9 @@ import TitlePage from '@/components/TitlePage'
 import React from 'react'
 import Link from 'next/link';
 
+
+
+
 export const POST = [
   {
     id: 1,
